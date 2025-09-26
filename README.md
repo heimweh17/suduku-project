@@ -1,5 +1,6 @@
 # Sudoku-Project
 Note: this is a team project.
+
 Sudoku — Python + Pygame
 
 A playable Sudoku game implemented in Python using Pygame. It features on-the-fly puzzle generation at multiple difficulties, keyboard and mouse controls, reset/restart options, and simple pencil-marks. The generator is adapted (with attribution) from a GeeksforGeeks algorithm and wrapped in a class used by the game.

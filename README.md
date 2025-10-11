@@ -1,8 +1,6 @@
 
 # Sudoku-Project
 
-*Note: This is a team project.*
-
 ---
 
 ## Sudoku — Python + Pygame

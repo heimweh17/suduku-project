@@ -1,4 +1,4 @@
-# Sudoku-Project
+
 # Sudoku-Project
 
 *Note: This is a team project.*
